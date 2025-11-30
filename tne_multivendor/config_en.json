@@ -34,7 +34,7 @@
 "backgroundColor":"FFC2185B",
 "textColor":"FFFFFFFF",
 "alignment":"center",
-"fontWeight":500,
+"fontWeight":400.0,
 "fontSize":15.0,
 "textOpacity":1.0,
 "marginLeft":0.0,
