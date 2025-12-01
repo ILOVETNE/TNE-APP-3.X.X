@@ -79,7 +79,7 @@
 "showNotification":true
 },
 {
-"height":50.0,
+"height":40.0,
 "backgroundColor":"032196F3",
 "useLightColor":false,
 "layout":"spacer"
