@@ -74,7 +74,7 @@
 "items":[
 {
 "originalColor":true,
-"backgroundColor":"9ae3f2fd",
+"backgroundColor":"cce3f2fd",
 "title":"Xiaomi",
 "name":null,
 "keepDefaultTitle":false,
@@ -94,7 +94,7 @@
 },
 {
 "originalColor":true,
-"backgroundColor":"9ae3f2fd",
+"backgroundColor":"cce3f2fd",
 "title":"Apple",
 "name":null,
 "keepDefaultTitle":false,
@@ -114,7 +114,7 @@
 },
 {
 "originalColor":true,
-"backgroundColor":"9ae3f2fd",
+"backgroundColor":"cbe3f2fd",
 "title":"Microsoft",
 "name":null,
 "keepDefaultTitle":false,
@@ -134,7 +134,7 @@
 },
 {
 "originalColor":true,
-"backgroundColor":"99e3f2fd",
+"backgroundColor":"cde3f2fd",
 "title":"Logitech",
 "name":null,
 "keepDefaultTitle":false,
@@ -154,7 +154,7 @@
 },
 {
 "originalColor":true,
-"backgroundColor":"99e3f2fd",
+"backgroundColor":"cce3f2fd",
 "title":null,
 "name":null,
 "keepDefaultTitle":false,
@@ -259,8 +259,15 @@
 "marginLeft":0.0,
 "items":[
 {
-"image":"https://trello.com/1/cards/68eaacdbc0be69b60613b7d2/attachments/692e0b1ab46287d3079461a5/download/Banner_for_Mobile_App_(5).jpg",
-"site":"Explore NorthEast"
+"image":"https://trello.com/1/cards/68eaacdbc0be69b60613b7d2/attachments/692e22db346574eef8e4a755/download/Banner_for_Mobile_App_(6).jpg",
+"site":"Explore NorthEast",
+"showSubcategory":false,
+"bannerWithProduct":false,
+"defaultShowProduct":false,
+"video":"",
+"products":[],
+"productLength":3,
+"type":"image"
 },
 {
 "image":"https://trello.com/1/cards/68eaacdbc0be69b60613b7d2/attachments/692e05b1cd12bee91f26dfe2/download/Winter-Expo.jpg",
