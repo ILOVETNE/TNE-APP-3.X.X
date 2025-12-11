@@ -16,11 +16,11 @@
 "imageSelected":"assets/images/tne-logo3.webp"
 }
 ],
-"spacing":22,
-"widthButton":156,
-"borderRadius":17,
-"heightButton":50,
-"backgroundColor":""
+"spacing":18,
+"widthButton":180,
+"borderRadius":18,
+"heightButton":60,
+"backgroundColor":"#2b2b2b"
 },
 {
 "font":"Roboto",
