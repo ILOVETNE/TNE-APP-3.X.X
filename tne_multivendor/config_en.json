@@ -4,10 +4,10 @@
 "layout":"multiSiteSelection",
 "stores":[
 {
-"image":"assets/images/tne-logo2.webp",
+"image":"assets/images/tne-logo1.webp",
 "folder":"tne_multivendor",
 "colorSelected":"#9900ff",
-"imageSelected":"assets/images/tne-logo1.webp"
+"imageSelected":"assets/images/tne-logo2.webp"
 },
 {
 "image":"assets/images/tne-logo4.gif",
@@ -20,7 +20,7 @@
 "widthButton":180,
 "borderRadius":17,
 "heightButton":50,
-"backgroundColor":"#70000026"
+"backgroundColor":""
 },
 {
 "font":"Roboto",
