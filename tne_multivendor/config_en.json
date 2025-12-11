@@ -19,8 +19,8 @@
 "spacing":18,
 "widthButton":180,
 "borderRadius":12,
-"heightButton":58,
-"backgroundColor":"#a4000b"
+"heightButton":60,
+"backgroundColor":"#810009"
 },
 {
 "font":"Roboto",
