@@ -16,10 +16,10 @@
 "imageSelected":"assets/images/tne-logo3.webp"
 }
 ],
-"spacing":20,
+"spacing":18,
 "widthButton":180,
 "borderRadius":17,
-"heightButton":50,
+"heightButton":60,
 "backgroundColor":""
 },
 {
