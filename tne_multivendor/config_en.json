@@ -2112,7 +2112,8 @@
 "rating",
 "title-UGSsezuBQG",
 "vendorAdmin",
-"delivery"],
+"delivery",
+"about"],
 "background":"https://trello.com/1/cards/68710331d199209eeadad71e/attachments/687426998268c1d9cfc079dc/download/675805ed-57da-45b3-b159-ce37cc4abf73.jpg",
 "subGeneralSetting":{
 "title-KshwBXqdxS":{
@@ -2148,7 +2149,10 @@
 "buttonAlignment":"centerLeft",
 "verticalPadding":{
 "x":3,
-"y":0}}
+"y":0}
+},
+"about":{
+"webUrl":"https://traditionalnortheast.com/about-us-for-app/"}
 },
 "drawerIcon":{
 "icon":"list_dash",
