@@ -59,7 +59,7 @@
 "enableBackground":false,
 "productType":true,
 "borderInput":false,
-"title":"Hello, <b>{name}</b> Welcome to Traditional NorthEast",
+"title":"Hello, <b>{name}</b> welcome to Traditional NorthEast",
 "type":"static",
 "textColor":"FFFFFFFF",
 "alignment":"centerLeft",
