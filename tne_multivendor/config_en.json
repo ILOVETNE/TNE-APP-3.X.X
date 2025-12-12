@@ -2155,7 +2155,7 @@
 "fontFamily":"CupertinoIcons"
 },
 "showBackground":true,
-"styleItem":"flat"
+"styleItem":"flatListTile"
 }
 ],
 "AppBar":{
