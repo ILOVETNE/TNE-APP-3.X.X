@@ -1955,7 +1955,7 @@
 "defaultTab":false,
 "fullscreen":false,
 "showOriginalColor":false,
-"categoryLayout":"card",
+"categoryLayout":"sideMenuWithGroup",
 "categories":["449",
 "448",
 "447",
