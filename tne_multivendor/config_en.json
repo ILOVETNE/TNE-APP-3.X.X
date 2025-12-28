@@ -1988,8 +1988,7 @@
 "defaultTab":false,
 "fullscreen":false,
 "showOriginalColor":true,
-"styleVersions":["6",
-"3"]
+"styleVersions":["3"]
 },
 {
 "key":"a2xts0oou6",
@@ -2379,4 +2378,4 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"Datetime":"2025-12-28T05:58:26.271140"}
+"Datetime":"2025-12-28T06:25:33.398586"}
