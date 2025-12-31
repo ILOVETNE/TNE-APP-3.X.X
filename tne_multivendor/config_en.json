@@ -2182,9 +2182,12 @@
 "Background":{
 "key":"ZmpAYkxURh",
 "color":"FF670110",
-"image":"",
+"image":"#",
 "height":0.67,
-"layout":"background"
+"layout":"background",
+"isScrollable":false,
+"fit":null,
+"video":""
 },
 "Drawer":{
 "logo":"https://traditionalnortheast.com/wp-content/uploads/2025/03/Traditioanl_NorthEast_Logo.png-scaled-1-medium.png",
@@ -2458,4 +2461,4 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"Datetime":"2025-12-31T06:53:53.349358"}
+"Datetime":"2025-12-31T07:01:34.203368"}
