@@ -34,7 +34,7 @@
 "textColor":"FFFFFFFF",
 "alignment":"center",
 "fontWeight":300,
-"fontSize":12,
+"fontSize":13.0,
 "textOpacity":1,
 "marginLeft":10,
 "marginRight":10,
@@ -52,7 +52,7 @@
 "layout":"header_text"
 },
 {
-"height":40.0,
+"height":30.0,
 "backgroundColor":"032196F3",
 "useLightColor":false,
 "layout":"spacer"
@@ -2459,4 +2459,4 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"Datetime":"2025-12-31T07:13:57.204356"}
+"Datetime":"2025-12-31T07:16:55.442324"}
