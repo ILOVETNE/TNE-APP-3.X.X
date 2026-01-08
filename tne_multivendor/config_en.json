@@ -2408,10 +2408,4 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"paymentConfig": {
-"GuestCheckout": false,
-"EnableShipping": true,
-"EnableAddress": true,
-"EnableReview": true
-},
 "Datetime":"2026-01-04T17:03:56.943606"}
