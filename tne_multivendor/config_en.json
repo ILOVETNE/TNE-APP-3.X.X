@@ -2134,8 +2134,7 @@
 "video":"https://traditionalnortheast.com/wp-content/uploads/2026/01/Happy_magh_Bihu_bihu_assam_culture_goodfoodinthevillage_720P-1.mp4",
 "height":0.675,
 "layout":"background",
-"isScrollable":false,
-"isSoundOn": true,
+"isScrollable":false
 },
 "Drawer":{
 "logo":"https://traditionalnortheast.com/wp-content/uploads/2025/03/Traditioanl_NorthEast_Logo.png-scaled-1-medium.png",
@@ -2409,4 +2408,4 @@
 "backgroundColor":null,
 "backgroundImage":null
 },
-"Datetime":"2026-01-10T18:56:48.338982"}
+"Datetime":"2026-01-10T20:08:49.315786"}
